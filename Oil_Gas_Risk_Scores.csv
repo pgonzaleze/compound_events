@@ -1,0 +1,632 @@
+Unit_ID,Unit_Name,Country_Area,Status,Production_start_year,Operator,Latitude,Longitude,Cat_3,Bathymetry_class,RiskScore
+OG0009654,Marlin,Australia,operating,1969,Esso,-38.231667,148.219167,0.0225282,-50,3.364285714
+OG0009659,Snapper,Australia,operating,1981,Esso,-38.20055064,147.9557265,0.0223917,-50,3.342857143
+OG0010812,Kipper,Australia,operating,2017,ExxonMobil,-38.18,148.59,0.022588,-50,3.4
+OG0010816,Barracouta West,Australia,operating,2021,Esso Australia Pty Ltd,-38.29468919,147.6180355,0.0222756,-30,4.414285714
+OG0013070,Enterprise,Australia,operating,2024,Beach Energy Ltd,-38.64,142.97,0.0163521,5,6.342857143
+OG0014049,Trefoil,Australia,discovered,2027 (expected),Beach Energy Ltd,-39.915167,145.323833,0.0219322,-50,3.257142857
+OG0014050,Manta,Australia,discovered,2028 (expected),Cooper Energy,-38.28,148.72,0.0225235,-100,1.885714286
+OG0014060,Judith,Australia,discovered,2027 (expected),Emperor Energy,-38.15,148.54,0.0226441,-50,3.414285714
+OG0014100,Kupe,New Zealand,operating,2009,Beach Energy Ltd,-39.8564,174.1139,0.0235024,-30,4.985714286
+OG0014101,Maui,New Zealand,operating,1979,OMV New Zealand,-39.564,173.422,0.0228379,-100,1.9
+OG0014103,Maari,New Zealand,operating,2009,OMV New Zealand,-39.9694,173.3119,0.0231867,-50,3.471428571
+OG0018030,Pohokura,New Zealand,operating,2006,OMV New Zealand,-38.9488,174.2911,0.0236587,-5,7.85
+OG0013126,Inhassoro,Mozambique,discovered,NA,Sasol,-21.6733,35.3525,0.0490245,-1,8.871428571
+OG0013127,Juan de Nova Maritime Profond Block,Mozambique,discovered,NA,South Atlantic Petroleum (SAPETRO),-17.0844,42.7399,0.0939253,-1,9.071428571
+OG0010004,Scarborough,Australia,in development,2026 (expected),Woodside Energy,-19.88387228,113.1470259,0.2477766,-100,3.528571429
+OG0010036,Rivoli,Australia,discovered,NA,NA,-21.98143733,114.1815119,0.0608845,-20,8.357142857
+OG0010056,Pyrenees,Australia,discovered,NA,Woodside,-21.54802242,114.1482336,0.0933464,-100,2.785714286
+OG0010060,Macedon,Australia,operating,2013,Woodside,-21.55563443,114.1572966,0.0933464,-50,5.742857143
+OG0010108,Greater Enfield,Australia,operating,NA,Woodside Energy,-21.53562728,113.8463317,0.1023858,-100,2.914285714
+OG0010173,Thebe,Australia,discovered,NA,NA,-19.42349428,113.0886589,0.2455545,-100,3.5
+OG0010194,Mentorc,Australia,discovered,NA,Western Gas,-20.43622932,113.7463509,0.1932712,-100,3.285714286
+OG0010199,Chester,Australia,discovered,NA,NA,-20.47896333,113.9275789,0.1730142,-100,3.228571429
+OG0010818,Equus Gas,Australia,discovered,2027 (expected),Western Gas,-20.11,113.79,0.1692603,-100,3.214285714
+OG0009991,North Rankin,Australia,operating,1984,Woodside Energy,-19.59718747,116.1262902,0.2725658,-100,3.757142857
+OG0009993,Angel,Australia,operating,2008,Woodside Energy,-19.5042585,116.5979162,0.3279435,-50,8.714285714
+OG0009994,Goodwyn,Australia,operating,NA,Woodside Petroleum Ltd,-19.69225146,115.8967491,0.293154,-100,4.071428571
+OG0009995,Goodwyn S/Pueblo,Australia,discovered,NA,Woodside Energy,-19.76587945,115.8635361,0.2881812,-50,8.228571429
+OG0009997,Eaglehawk,Australia,discovered,NA,NA,-19.50693048,116.2782132,0.3084193,-100,4.592857143
+OG0010006,Ichthys,Australia,operating,2018,INPEX Corporation,-13.9123138,123.2591829,0.2699666,-100,3.7
+OG0010011,Gorgon,Australia,operating,2016,Chevron Australia,-20.38318339,114.862885,0.2103376,-100,3.314285714
+OG0010045,Perseus,Australia,operating,2013,Woodside Energy,-19.58428147,116.1380172,0.2725658,-100,3.757142857
+OG0010051,Maitland,Australia,discovered,NA,NA,-20.56106935,115.175518,0.229617,-50,6.857142857
+OG0010071,Nimrod,Australia,discovered,NA,NA,-21.35988531,114.642612,0.1134526,-100,2.942857143
+OG0010076,Hermes,Australia,operating,NA,Woodside,-19.44960149,116.4878432,0.3080269,-50,8.557142857
+OG0010080,Reindeer,Australia,operating,NA,Quadrant Energy,-20.01642748,116.3070232,0.2773404,-50,7.928571429
+OG0010086,John Brookes,Australia,operating,NA,Santos,-20.43242451,115.1101466,0.2300412,-50,6.892857143
+OG0010099,Coaster,Australia,discovered,NA,NA,-21.6563773,114.8573245,0.0975787,5,9.242857143
+OG0010100,Antiope,Australia,discovered,NA,NA,-20.84606338,114.728831,0.1926306,-100,3.271428571
+OG0010109,Jansz-Io,Australia,operating,2016,Chevron Australia,-19.84755837,114.483333,0.2625821,-100,3.671428571
+OG0010116,Chamois,Australia,discovered,NA,NA,-20.3752776,116.0235291,0.2517581,-30,8.628571429
+OG0010125,Blacktip,Australia,operating,2009,Eni S.P.A.,-13.90416787,128.4846802,0.1183774,-50,6.085714286
+OG0010157,Pluto,Australia,operating,2012,Woodside energy,-19.88618541,115.1378181,0.2708285,-100,3.714285714
+OG0010164,Pemberton,Australia,operating,NA,Woodside Energy,-19.83415744,115.6679341,0.258301,-50,7.607142857
+OG0010168,Xena,Australia,operating,NA,Woodside Energy,-19.96531641,115.2163121,0.2401365,-100,3.457142857
+OG0010170,Prelude,Australia,operating,2018,Shell,-13.8147198,123.3406179,0.2796458,-100,3.785714286
+OG0010211,Dorado,Australia,discovered,2028 (expected),Santos,-19.027222,118.743539,0.2964965,-50,8.414285714
+OG0010795,Wheatstone,Australia,operating,2017,Chevron,-19.93049042,115.3354581,0.2401344,-100,3.435714286
+OG0010796,Wheatstone/Iago,Australia,operating,2017,Chevron,-19.93049042,115.3354581,0.2401344,-100,3.435714286
+OG0010808,Julimar-Brunello,Australia,operating,2016,Woodside Petroleum Ltd,-20.0314,115.1765,0.2427497,-100,3.485714286
+OG0010809,North Rankin,Australia,operating,NA,Woodside Energy,-19.5842306,116.1380722,0.2725658,-100,3.757142857
+OG0010813,Persephone,Australia,operating,2017,Woodside Energy,-19.492861,116.124639,0.2885543,-100,4.014285714
+OG0010814,Tidepole,Australia,operating,NA,Woodside Energy,-19.762471,115.890091,0.2802202,-50,8
+OG0010815,Pyxis,Australia,operating,2021,Woodside Energy,-19.8961912,115.1790584,0.2627524,-100,3.685714286
+OG0010819,Montara,Australia,operating,NA,Jadestone,-12.6648,124.5444,0.1385377,-50,6.15
+OG0013066,Gorgon,Australia,operating,2016,Chevron Australia,-20.4072,114.8503,0.2011157,-100,3.3
+OG0014053,Greater Western Flank Phase 3,Australia,operating,NA,Woodside Energy,-19.6460955,116.0219058,0.2964836,-100,4.171428571
+OG0017175,Greater Western Flank Phase 1,Australia,operating,2015,Woodside Energy,-19.78666645,115.7811231,0.2881812,-100,3.978571429
+OG0017176,Greater Western Flank Phase 2,Australia,operating,2018,Woodside Energy,-19.78666645,115.7811231,0.2881812,-100,3.978571429
+OG0020350,Browse to North West Shelf,Australia,discovered,2026 (expected),Woodside Energy,-13.99,121.98,0.250974,-100,3.557142857
+OG0020351,Clio-Acme,Australia,discovered,2027 (expected),Chevron,-20.21,114.82,0.2239937,-100,3.364285714
+OG0020352,Crux,Australia,in development,2027 (expected),Shell Australia,-12.964572,124.442558,0.1620754,-100,3.028571429
+OG0020781,Pavo,Australia,discovered,NA,Santos,-19.0352826,119.1848064,0.3054978,-50,8.485714286
+OG0020782,Brees,Australia,discovered,NA,Finder Energy Holdings Limited,-19.11015919,117.762762,0.3189377,-100,4.9
+OG0020783,Favre,Australia,discovered,NA,Finder Energy Holdings Limited,-19.11015919,117.762762,0.3189377,-100,4.9
+OG0020784,Brady,Australia,discovered,NA,Finder Energy Holdings Limited,-19.11015919,117.762762,0.3189377,-100,4.9
+OG0013080,Stabroek,Guyana,operating,NA,ExxonMobil,7.9904,-57.0997,0.0213104,-100,1.764285714
+OG0013088,Longtail,Guyana,discovered,2025 (expected),ExxonMobil,7.9302,-56.5831,0.0205708,-100,1.621428571
+OG0013089,Hammerhead,Guyana,discovered,2029 (expected),ExxonMobil,7.9865,-57.1038,0.0213104,-100,1.764285714
+OG0013090,Pluma,Guyana,discovered,NA,ExxonMobil,7.6425,-56.5919,0.0198749,-100,1.485714286
+OG0013091,Tilapia,Guyana,in development,2025 (expected),ExxonMobil,7.9143,-56.6356,0.0205708,-100,1.621428571
+OG0013092,Haimara,Guyana,discovered,NA,ExxonMobil,7.6418,-56.3146,0.0216481,-100,1.821428571
+OG0013093,Yellowtail,Guyana,in development,2025 (expected),ExxonMobil,7.9949,-56.7079,0.019909,-100,1.5
+OG0013109,Kwaskwasi-1,Suriname,in development,2029 (expected),Total,7.4528,-56.0976,0.0200172,-100,1.514285714
+OG0013110,Keskesi East-1,Suriname,in development,2029 (expected),Total,7.3797,-55.9018,0.0216245,-100,1.8
+OG0013111,Maka Central-1,Suriname,in development,2029 (expected),Total,7.49269,-56.18344,0.0188793,-100,1.457142857
+OG0013114,Gran Morgu,Suriname,in development,2028 (expected),Total,7.2805,-56.1367,0.0205037,-50,2.885714286
+OG0013158,Whiptail,Guyana,in development,2027 (expected),ExxonMobil,7.8837,-56.748,0.0203658,-100,1.585714286
+OG0017566,Pinktail,Guyana,in development,2027 (expected),ExxonMobil,7.8188,-56.6535,0.0228635,-100,1.914285714
+OG0017567,Lau Lau,Guyana,discovered,NA,ExxonMobil,7.7023,-56.4609,0.0200837,-100,1.528571429
+OG0017568,Fangtooth,Guyana,discovered,NA,ExxonMobil,7.9422,-57.071,0.0240607,-100,2.028571429
+OG0017569,Barreleye,Guyana,discovered,NA,ExxonMobil,7.727,-56.866,0.0234301,-100,1.971428571
+OG0017572,Seabob,Guyana,discovered,NA,ExxonMobil,7.7328,-56.7538,0.0228985,-100,1.928571429
+OG0017574,Sailfin,Guyana,discovered,NA,ExxonMobil,7.51213,-56.41654,0.0238276,-100,2
+OG0020630,Fangtooth SE-1,Guyana,discovered,NA,ExxonMobil,7.9821,-56.985,0.0248201,-100,2.064285714
+OG0020632,Wei-1,Guyana,discovered,2030 (expected),"CGX Energy, Inc.",7.6208,-56.5675,0.0203576,-100,1.571428571
+OG0020643,Baja-1,Suriname,discovered,NA,APA Corporation,6.597482191,-55.25136774,0.0303681,-30,5.871428571
+OG0021099,Bluefin,Guyana,discovered,NA,ExxonMobil,7.5902,-56.3613,0.0216481,-100,1.821428571
+OG0013120,Mamba,Mozambique,in development,2028 (expected),Mozambique Rovuma Venture,-10.8753,41.2086,0.0210475,-100,1.685714286
+OG0013121,Coral/Coral South,Mozambique,operating,2022,Eni S.P.A.,-11.1804,41.3188,0.0212357,-100,1.742857143
+OG0013122,Prosperidade,Mozambique,discovered,2029 (expected),TotalEnergies,-10.7333,40.8687,0.0251977,-100,2.114285714
+OG0013123,Golfinho/Atum,Mozambique,in development,2028 (expected),TotalEnergies,-10.5096,40.8103,0.0249044,-100,2.085714286
+OG0013129,Zafarani,Tanzania,discovered,2028 (expected),Equinor,-9.24291,40.45869,0.0138647,-100,1.1
+OG0013136,Taachui,Tanzania,discovered,NA,Shell plc,-9.608,39.898,0.0150629,-100,1.157142857
+OG0013137,Mzia,Tanzania,discovered,2031 (expected),Shell plc,-9.8028,40.4762,0.015594,-100,1.214285714
+OG0013138,Mkizi,Tanzania,discovered,NA,Shell plc,-9.992,40.433,0.0173189,-100,1.342857143
+OG0013139,Jodari,Tanzania,discovered,NA,Shell plc,-10.10729,40.50203,0.0201919,-100,1.557142857
+OG0013140,Chaza,Tanzania,discovered,NA,Shell plc,-10.19314,40.53798,0.0210475,-100,1.685714286
+OG0013143,Pweza,Tanzania,discovered,NA,Shell plc,-9.40028,40.43668,0.0150871,-100,1.178571429
+OG0013144,Lavani,Tanzania,discovered,NA,Equinor,-9.40104,40.44044,0.0150871,-100,1.178571429
+OG0013145,Tangawizi,Tanzania,discovered,NA,Equinor,-9.356,40.503,0.0148474,-100,1.142857143
+OG0013147,Piri,Tanzania,discovered,NA,Equinor,-9.443,40.395,0.0142134,-100,1.114285714
+OG0013148,Giligiliani,Tanzania,discovered,NA,Equinor,-9.177,40.032,0.013123,-100,1.071428571
+OG0013149,Mdalasini,Tanzania,discovered,NA,Equinor,-9.493,40.503,0.0143326,-100,1.128571429
+OG0017067,Atum,Mozambique,operating,NA,TotalEnergies,-10.6183,40.8793,0.026692,-100,2.171428571
+OG0017100,Mamba North,Mozambique,operating,NA,Eni S.P.A,-10.8753,41.2086,0.0210475,-100,1.685714286
+OG0017101,Mamba Northeast,Mozambique,operating,NA,Eni S.P.A,-10.8753,41.2086,0.0210475,-100,1.685714286
+OG0017102,Mamba South,Mozambique,operating,NA,Eni S.P.A,-10.8753,41.2086,0.0210475,-100,1.685714286
+OG0017481,Msimbati,Tanzania,operating,NA,Maurel & Prom,-10.33331704,40.3939999,0.0236886,-1,8.257142857
+OG0017496,Area 1,Mozambique,in development,2025 (expected),TotalEnergies,-10.9704,40.8465,0.0213173,-100,1.785714286
+OG0017497,Area 4,Mozambique,operating,NA,Mozambique Rovuma Venture,-10.9158,41.1154,0.0223543,-100,1.871428571
+OG0005123,Bongkot Main,Thailand,operating,1993,PTT Exploration and Production Public Company Limited (PTTEP),7.829,102.579,0.0123068,-50,2.157142857
+OG0012873,Lengo,Indonesia,discovered,2027 (expected),KrisEnergy,-6.139999243,111.9574152,0.0129751,-50,2.242857143
+OG0012891,Paus Biru,Indonesia,discovered,2027 (expected),MedcoEnergi,-7.299854927,113.455296,0.0122473,-30,2.728571429
+OG0014072,Siakap North-Petai (SNP) Phase 2,Malaysia,operating,2021,PTT Exploration and ??Production Public Company Limited (PTTEP),6.075,114.343,0.0128657,-100,1.021428571
+OG0014085,U Minh,Vietnam,discovered,2026 (expected),Jadestone Energy,7.6618,103.667,0.0126387,-30,2.757142857
+OG0014086,Nam Du,Vietnam,discovered,2026 (expected),Jadestone Energy,7.6457,103.8752,0.0133388,-30,2.8
+OG0014091,Phong Lan Dai,Vietnam,operating,NA,Rosneft,7.686,109.026,0.0167905,-100,1.3
+OG0017970,Lan Do,Vietnam,operating,2018,Zarubezhneft,7.60231,108.874,0.0155023,-100,1.2
+OG0018158,Siakap North-Petai,Malaysia,operating,2014,PTT Exploration and ??Production Public Company Limited (PTTEP),6.075,114.343,0.0128657,-100,1.021428571
+OG0010067,Laminaria East,Australia,operating,NA,NA,-10.63214587,126.0510451,0.0742088,-100,2.685714286
+OG0010810,Barossa,Australia,in development,2025 (expected),Santos Limited,-9.725,130.482,0.0186544,-100,1.414285714
+OG0011937,Kebabangan,Malaysia,operating,2014,Kebabangan Production Oil Co,6.4435,115.3847,0.0131655,-100,1.085714286
+OG0012021,Rotan,Malaysia,operating,2021,PTTEP Sabah Oil,7.53886,115.881,0.0319184,-100,2.357142857
+OG0012023,Malikai,Malaysia,operating,2016,Shell,6.347925,115.104238,0.0129676,-100,1.057142857
+OG0018170,Abadi,Indonesia,discovered,2030 (expected),INPEX Corporation,-9.1706,130.4554,0.0129476,-100,1.042857143
+OG0020404,Greater Sunrise,Timor Gap,discovered,2029 (expected),Woodside Energy,-9.55,128.19,0.0255662,-100,2.128571429
+OG0002257,Ku,Mexico,operating,1981,PEMEX,19.5078002,-92.19671584,0.0911921,-50,5.614285714
+OG0002258,Ayatsil,Mexico,operating,2015,PEMEX,19.62534572,-92.35402745,0.082628,-100,2.7
+OG0002259,Akal,Mexico,operating,1979,PEMEX,19.3991,-92.0532,0.0848704,-30,7.314285714
+OG0002262,Balam,Mexico,operating,1993,PEMEX,19.48528569,-91.95634902,0.0882526,-30,7.607142857
+OG0002265,Ek,Mexico,operating,1991,PEMEX,19.5063,-91.9976,0.0882526,-30,7.607142857
+OG0002266,Onel,Mexico,operating,2013,PEMEX,19.3317,-92.3979,0.0573516,-50,5.035714286
+OG0002267,Xikin,Mexico,operating,2019,PEMEX,18.6625,-93.3353,0.0261779,-30,5.535714286
+OG0002269,Yaxché,Mexico,operating,2006,PEMEX,18.5136,-93.2765,0.0252539,-20,6.585714286
+OG0002273,Tekel,Mexico,operating,2023,PEMEX,19.6954,-92.3465,0.0975375,-100,2.842857143
+OG0002274,Lakach,Mexico,in development,2026 (expected),Grupo Carso,19.0516791,-95.26597945,0.0282018,-100,2.257142857
+OG0002275,Pokché,Mexico,operating,2020,PEMEX,18.509,-93.441,0.0233151,-5,7.707142857
+OG0002277,Xux,Mexico,operating,2014,PEMEX,18.6843,-92.7591,0.0288993,-10,8.2
+OG0002278,Arenque,Mexico,operating,1970,PEMEX,22.2437,-97.5247,0.1593553,-50,6.25
+OG0002280,Xanab,Mexico,operating,2009,PEMEX,18.5379,-93.3825,0.0248678,-5,8.164285714
+OG0002281,Etkal,Mexico,operating,NA,PEMEX,19.0564,-92.1467,0.0488569,-20,8.085714286
+OG0002282,Sihil,Mexico,operating,2002,PEMEX,19.4251,-92.0655,0.0848704,-30,7.314285714
+OG0002283,Suuk,Mexico,operating,NA,PEMEX,18.7259,-93.3695,0.0261779,-50,3.8
+OG0002284,Ixtal,Mexico,operating,2005,PEMEX,19.3784,-92.338,0.0725301,-50,5.285714286
+OG0002286,Puerto Ceiba,Mexico,operating,1985,PEMEX,18.4536,-93.2239,0.0252695,5,8.642857143
+OG0002290,Homol,Mexico,operating,2007,PEMEX,19.0395,-92.263,0.0344784,-20,7.557142857
+OG0002293,Kambesah,Mexico,operating,NA,PEMEX,19.4032,-92.1562,0.0838166,-30,7.242857143
+OG0002300,Tsimín,Mexico,operating,2012,PEMEX,18.71393514,-92.69091795,0.0297032,-10,8.214285714
+OG0002303,Esah,Mexico,operating,2022,PEMEX,19.2726,-92.4394,0.0602768,-50,5.121428571
+OG0002304,Lum,Mexico,operating,2006,PEMEX,19.5969,-92.0562,0.0942755,-50,5.807142857
+OG0002306,Koban,Mexico,operating,2021,PEMEX,18.5719,-92.7752,0.0278821,-10,8.085714286
+OG0002308,Takín,Mexico,operating,2008,PEMEX,19.2871,-91.955,0.0751791,-20,8.428571429
+OG0002311,Kax,Mexico,operating,1995,PEMEX,19.1302,-92.4805,0.0424914,-30,6.271428571
+OG0002319,Kuil,Mexico,operating,2012,PEMEX,19.0482,-92.1979,0.0488569,-10,8.585714286
+OG0002321,Mulach,Mexico,operating,2020,PEMEX,18.4758,-93.3497,0.0248678,-5,8.164285714
+OG0002324,Ixtoc,Mexico,operating,1984,PEMEX,19.4441,-92.2166,0.0911921,-30,7.707142857
+OG0002325,May,Mexico,operating,2005,PEMEX,18.7141,-92.5967,0.0302964,-10,8.242857143
+OG0002328,Teca,Mexico,operating,2021,PEMEX,18.4347,-94.1159,0.0216598,-50,3.242857143
+OG0002329,Bolontikú,Mexico,operating,NA,PEMEX,18.8954,-92.5744,0.0308036,-20,7.285714286
+OG0002330,Och,Mexico,operating,1990,PEMEX,19.1988,-92.4893,0.053038,-50,4.957142857
+OG0002332,Tetl,Mexico,operating,NA,NA,18.4678,-93.6655,0.0267719,-30,5.585714286
+OG0002334,Taratunich,Mexico,operating,NA,PEMEX,19.4015,-92.279,0.0779383,-50,5.314285714
+OG0002335,Uech,Mexico,operating,NA,PEMEX,19.1295,-92.5456,0.0459813,-50,4.592857143
+OG0002339,Cheek,Mexico,operating,NA,NA,19.1241,-92.2435,0.0446183,-20,7.942857143
+OG0002340,Chuc,Mexico,operating,1982,PEMEX,19.1649,-92.2903,0.0509885,-30,6.657142857
+OG0002344,Bacab,Mexico,operating,1991,PEMEX,19.5659,-92.119,0.0942755,-50,5.807142857
+OG0002346,Chac,Mexico,operating,NA,PEMEX,19.3724,-91.9624,0.0869095,-30,7.435714286
+OG0002347,Kutz,Mexico,operating,NA,PEMEX,19.4468,-92.115,0.0915025,-30,7.778571429
+OG0002348,Nohoch,Mexico,operating,NA,PEMEX,19.3509,-91.989,0.0869095,-20,8.571428571
+OG0002349,Abkatún,Mexico,operating,1980,PEMEX,19.2491,-92.1876,0.0706389,-20,8.4
+OG0002351,Caan,Mexico,operating,1985,PEMEX,19.23917197,-92.0602703,0.0611582,-20,8.371428571
+OG0002352,Ché,Mexico,operating,NA,PEMEX,19.0012,-92.186,0.0363447,-10,8.457142857
+OG0002353,Chuhuk,Mexico,operating,NA,PEMEX,18.9567,-92.2637,0.0344784,-20,7.557142857
+OG0002354,Kanaab,Mexico,operating,NA,PEMEX,19.353,-92.2329,0.0779383,-30,7.171428571
+OG0002362,Hokchi,Mexico,operating,2020,Hokchi Energy,18.6298,-93.3458,0.0244706,-30,5.271428571
+OG0002367,Octli,Mexico,operating,2020,PEMEX,18.3138,-94.2605,0.0196352,-30,3.728571429
+OG0002368,Teekit Profundo,Mexico,operating,NA,NA,18.6167,-93.0761,0.0273798,-20,6.914285714
+OG0002369,Maloob,Mexico,operating,1985,PEMEX,19.5895,-92.2458,0.0973531,-50,5.871428571
+OG0002370,Zaap,Mexico,operating,1992,PEMEX,19.5531,-92.2365,0.0973531,-50,5.871428571
+OG0002406,Trion,Mexico,in development,2028 (expected),Woodside Petroleum Ltd.,25.76429049,-95.38528437,0.2806186,-100,3.821428571
+OG0002413,Cahua,Mexico,operating,2020,PEMEX,18.2956,-94.1002,0.0255091,-20,6.6
+OG0002450,Kab,Mexico,operating,NA,PEMEX,18.7911,-92.7334,0.0281711,-20,7.007142857
+OG0002459,Manik NW,Mexico,operating,2020,PEMEX,19.445,-92.3656,0.0772322,-50,5.3
+OG0002493,Sinán,Mexico,operating,2003,PEMEX,18.9459,-92.6723,0.0345113,-30,6.071428571
+OG0002508,Tlacame,Mexico,operating,2020,PEMEX,18.5078,-93.454,0.0233151,-5,7.707142857
+OG0002673,Zama,Mexico,discovered,2028 (expected),PEMEX,18.857301,-93.535393,0.0296511,-100,2.3
+OG0002676,Kayab,Mexico,in development,2025 (expected),NA,19.7342,-92.4332,0.0880874,-100,2.742857143
+OG0002677,Pit,Mexico,discovered,2025 (expected),PEMEX,19.7697,-92.2687,0.1087011,-100,2.928571429
+OG0002679,Ichalkil,Mexico,operating,2021,Lukoil,19.0393,-92.4785,0.034465,-20,7.485714286
+OG0002683,Amoca,Mexico,operating,2022,"Eni méxico, S. de R.L. de C.V.",18.3352,-93.8733,0.0230364,-30,4.842857143
+OG0002689,Miztón,Mexico,operating,2019,"Eni méxico, S. de R.L. de C.V.",18.4028,-93.7858,0.0224564,-30,4.614285714
+OG0002701,Bagre,Mexico,operating,NA,PEMEX,20.973,-97.0474,0.0927277,-30,7.814285714
+OG0002709,Pokoch,Mexico,operating,2021,Lukoil,19.1687,-92.431,0.053038,-30,6.728571429
+OG0002720,Uchbal,Mexico,operating,NA,NA,18.6861,-93.3225,0.0273897,-30,5.642857143
+OG0014196,Tahiti/Cae/Tong (GC640) - Anadarko,United States,operating,2009,Anadarko,27.244,-90.83325,0.3733789,-100,6.171428571
+OG0014198,Lucius (KC875) - Anadarko,United States,operating,NA,Anadarko,26.10225,-92.0615,0.3824098,-100,6.414285714
+OG0014200,Holstein (GC644) - Anadarko,United States,operating,NA,Anadarko,27.3265,-90.539,0.4084831,-100,7.342857143
+OG0014201,Hopkins (GC627) - Anadarko,United States,operating,NA,Anadarko,27.339,-91.393,0.3195214,-100,4.935714286
+OG0014202,Heidelberg (GC859) - Anadarko,United States,operating,NA,Anadarko,27.091,-90.8115,0.3903639,-100,6.778571429
+OG0014274,EI276 - Arena,United States,operating,NA,Arena Offshore,28.432,-91.4735,0.3550546,-50,9
+OG0014275,EI330 - Arena,United States,operating,NA,Arena Offshore,28.22,-91.70625,0.3171155,-50,8.6
+OG0014276,HI545A - Arena,United States,operating,NA,Arena Offshore,27.999,-93.96,0.3005582,-50,8.442857143
+OG0014670,Tahiti/Cae/Tong (GC640) - Chevron,United States,operating,2009,Chevron,27.35125,-90.73375,0.3659114,-100,6.014285714
+OG0014671,Big Foot (WR029) - Chevron,United States,operating,NA,Chevron,26.934,-90.523,0.3891288,-100,6.671428571
+OG0014672,Jack (WR759) - Chevron,United States,operating,NA,Chevron,26.19166667,-91.44066667,0.403185,-100,7.128571429
+OG0015043,Genesis (GC205) - Talos,United States,operating,NA,Talos,27.719,-90.555,0.3750683,-100,6.2
+OG0015044,Brutus (GC158) - Talos,United States,operating,NA,Talos,27.7855,-90.6515,0.3592377,-100,5.921428571
+OG0015159,Julia (WR627) - Exxon Mobil,United States,operating,NA,Exxon Mobil,26.401,-91.3575,0.4161785,-100,7.657142857
+OG0015160,Hoover (AC025) - Exxon Mobil,United States,operating,NA,Exxon Mobil,26.945,-94.705,0.2505233,-100,3.542857143
+OG0015324,Salsa (GB171) - Hess,United States,operating,NA,Hess Corporation,27.78,-92.023,0.3049891,-100,4.392857143
+OG0015325,Baldpate (GB260) - Hess,United States,operating,NA,Hess Corporation,27.75825,-91.9985,0.3049891,-100,4.392857143
+OG0015322,Stampede (GC468) - Hess,United States,operating,NA,Hess Corporation,27.472,-90.57633333,0.4123227,-100,7.557142857
+OG0015604,Buckskin (KC872) - LLOG Offshore,United States,operating,NA,LLOG Exploration Offshore,26.168,-92.133,0.3893917,-100,6.75
+OG0015747,Front Runner (GC339) - Murphy,United States,operating,NA,Murphy E&P. Company,27.615,-90.443,0.3931094,-100,6.814285714
+OG0015607,Brutus (GC158) - LLOG Offshore,United States,operating,NA,LLOG Exploration Offshore,27.765,-90.701,0.3592377,-100,5.921428571
+OG0015743,Chinook (WR469) - Murphy,United States,operating,NA,Murphy E&P. Company,26.52,-90.5325,0.4444258,-100,8.042857143
+OG0015750,Cascade (WR206) - Murphy,United States,operating,NA,Murphy E&P. Company,26.737,-90.4785,0.3465115,-100,5.628571429
+OG0016202,Llano (GB387) - Shell,United States,operating,NA,Shell,27.6075,-92.2935,0.3217106,-100,5.035714286
+OG0016204,Great White (AC857) - Shell,United States,operating,NA,Shell,26.11466667,-94.91033333,0.2883613,-100,4
+OG0016207,Stones (WR508) - Shell,United States,operating,NA,Shell,26.4805,-90.775,0.4388548,-100,8.028571429
+OG0016209,Auger (GB426) - Shell,United States,operating,NA,Shell,27.55033333,-92.43233333,0.2869703,-100,3.9
+OG0016212,Tobago (AC859) - Shell,United States,operating,NA,Shell,26.138,-94.79,0.2831486,-100,3.842857143
+OG0016361,Phoenix (GC236) - Talos ERT,United States,operating,NA,Talos ERT,27.7055,-91.118,0.3212404,-100,5.007142857
+OG0016505,Saint Malo (WR678) - Union,United States,operating,NA,Union Oil Company Of California,26.30333333,-91.08466667,0.430767,-100,7.971428571
+OG0016594,Mahogany (SS349) - W & T,United States,operating,NA,W & T Offshore,28.058,-91.0675,0.373124,-100,6.15
+OG0016597,Magnolia (GB783) - W & T,United States,operating,NA,W & T Offshore,27.215,-92.1985,0.2859365,-100,3.885714286
+OG0016612,ST311 - Walter,United States,operating,NA,Walter Oil & Gas Corporation,28.113,-90.538,0.3643418,-100,5.978571429
+OG0016614,EW910 - Walter,United States,operating,NA,Walter Oil & Gas Corporation,28.075,-90.538,0.3643418,-100,5.978571429
+OG0018197,Tlamatini,Mexico,operating,NA,PEMEX,18.48,-93.509,0.0233151,-5,7.707142857
+OG0018198,Itta,Mexico,operating,2021,PEMEX,18.621,-93.298,0.0268506,-20,6.828571429
+OG0018199,Tlalkivak,Mexico,operating,2023,PEMEX,18.499,-92.856,0.0248059,-10,7.392857143
+OG0018221,Kan,Mexico,discovered,NA,Wintershall Dea,18.69384551,-93.13616472,0.0276895,-30,5.678571429
+OG0018222,Yatzil,Mexico,discovered,NA,Eni,18.44218052,-93.94345775,0.0211215,-30,4.085714286
+OG0018905,GC019 - Talos Energy Offshore,United States,operating,NA,Talos,27.9665,-91.0365,0.3679257,-100,6.1
+OG0018906,Troika (GC244) - Quarternorth Energy,United States,operating,NA,Quarternorth Energy,27.74933333,-90.73466667,0.3429095,-100,5.485714286
+OG0018925,Whale (AC772) - Shell,United States,operating,2025,Shell,26.2944,-94.2048,0.3084265,-100,4.628571429
+OG0018926,Anchor (GC807) - Chevron,United States,operating,2024,Chevron,27.14459,-91.13383,0.3255592,-100,5.071428571
+OG0019528,Sparta (GB959) - Shell,United States,in development,2028 (expected),Shell,27.0451,-92.1743,0.2924107,-100,4.042857143
+OG0019529,Shenandoah (WR051) - Beacon,United States,in development,2025 (expected),Beacon Offshore Energy,26.9315,-91.4737,0.3722201,-100,6.128571429
+OG0019532,Leon (KC642) - LLOG,United States,in development,2025 (expected),LLOG Exploration Offshore,26.3366,-92.9129,0.3643688,-100,6
+OG0019534,Winterfell (GC943/GC944) - Beacon,United States,operating,2024,BOE Exploration & Production,27.084,-91.1969,0.3514189,-100,5.785714286
+OG0019541,Blacktip (AC380) - LLOG,United States,discovered,2027 (expected),LLOG Exploration Offshore,26.5637,-94.4754,0.2624077,-100,3.657142857
+OG0019542,Gotcha (AC865) - Total,United States,discovered,2026 (expected),Total,26.44920801,-95.24420577,0.2836484,-100,3.871428571
+OG0019555,Guadalupe (KC010) - Chevron,United States,discovered,2030 (expected),Chevron,26.9485,-93.4506,0.2986722,-100,4.2
+OG0019556,Tiber (KC102) - BP,United States,discovered,2040 (expected),BP,26.839,-93.173,0.3262677,-100,5.121428571
+OG0019557,Kaskida (KC192) - BP,United States,in development,2029 (expected),BP,27.99159668,-91.40521693,0.3183777,-100,4.857142857
+OG0019567,Monument (WR316) - Beacon,United States,in development,2026 (expected),Beacon Offshore Energy,26.65693683,-91.5791578,0.350471,-100,5.7
+OG0020644,Sunspear - Talos,United States,discovered,2025 (expected),Talos,27.04921602,-90.44862671,0.4209888,-100,7.828571429
+OG0020669,Tiberus (KC964) - Kosmos,United States,discovered,2028 (expected),Kosmos Energy,27.139611,-93.180667,0.3082444,-100,4.571428571
+OG0020851,Akal NW,Mexico,operating,NA,NA,19.506456,-92.069246,0.0915025,-50,5.678571429
+OG0020876,Xanab SE,Mexico,operating,NA,NA,18.477426,-93.330972,0.0248678,-20,6.442857143
+OG0020883,Xale,Mexico,discovered,NA,PEMEX,18.506289,-94.232307,0.0245476,-50,3.628571429
+OG0020884,Tentok,Mexico,operating,NA,PEMEX,18.735146,-93.110705,0.028199,-30,5.771428571
+OG0020889,Yopaat,Mexico,discovered,NA,Eni,18.8498004,-93.82384496,0.0306304,-100,2.342857143
+OG0002811,Ballena,Colombia,operating,NA,Hocol S.A.,11.728,-72.799,0.1757619,-5,9.178571429
+OG0002889,Chuchupa,Colombia,operating,NA,Hocol S.A.,11.728,-72.799,0.1757619,-5,9.178571429
+OG0005058,Urdaneta Oeste,Venezuela,operating,NA,"Petroregional del Lago, S.A.",10.11154704,-71.8185787,0.0169051,-10,5.242857143
+OG0005072,Varadero,Cuba,operating,NA,CUPET,23.147,-81.343,0.5627392,5,10
+OG0005073,Yumuri-Seboruco,Cuba,operating,NA,Sheritt International,23.169,-81.598,0.5927336,-1,9.971428571
+OG0005162,Varadero West,Cuba,operating,NA,CUPET,23.145,-81.33,0.5475505,5,9.985714286
+OG0005171,Ceuta,Venezuela,operating,NA,PDVSA,9.782287875,-71.19270076,0.0160976,-20,3.914285714
+OG0005172,Lamar,Venezuela,operating,NA,PDVSA,10.165,-71.476,0.018226,-10,5.514285714
+OG0005177,Centro,Venezuela,operating,NA,NA,9.860043787,-71.38786412,0.0161747,-20,3.928571429
+OG0005185,Tía Juana,Venezuela,operating,NA,Petrocabimas,10.3212,-71.7711,0.0196661,5,7.2
+OG0009180,Perla,Venezuela,operating,2015,Cardón IV S.A,12.01608,-70.549766,0.3511733,-50,8.957142857
+OG0014199,K2 (GC562) - Anadarko,United States,operating,NA,Anadarko,27.4085,-90.281,0.4082588,-100,7.314285714
+OG0014323,Claiborne (MC794) - Beacon Growthco,United States,operating,NA,Beacon Growthco,28.146,-89.854,0.3401516,-100,5.392857143
+OG0014342,Shenzi (GC654) - Woodside,United States,operating,2009,Woodside Energy Group,27.3354,-90.1144,0.4186736,-100,7.75
+OG0014391,Thunder Horse (MC778) - BP,United States,operating,NA,BP,28.18266667,-88.49466667,0.4265355,-100,7.9
+OG0014392,Atlantis (GC743) - BP,United States,operating,NA,BP,27.24333333,-90.01266667,0.4346705,-100,7.985714286
+OG0014393,Mad Dog (GC826) - BP,United States,operating,2005,BP,27.1564,-90.3042,0.4190458,-100,7.778571429
+OG0014394,N. Thunder Horse (MC776) - BP,United States,operating,NA,BP,28.211,-88.5525,0.4109302,-100,7.435714286
+OG0014397,Fourier/Sumter (MC522) - BP,United States,operating,NA,BP,28.462,-88.121,0.394763,-100,6.842857143
+OG0014398,East Anstey (MC607) - BP,United States,operating,NA,BP,28.4535,-88.236,0.3985057,-100,6.95
+OG0014673,Blind Faith (MC696) - Chevron,United States,operating,NA,Chevron,28.3015,-88.2095,0.4089746,-100,7.371428571
+OG0015029,Devils Tower (MC773) - ENI,United States,operating,NA,ENI Petroleum,28.219,-88.77425,0.4082475,-100,7.271428571
+OG0015032,Allegheny (GC254) - ENI,United States,operating,NA,ENI Petroleum,27.6915,-90.2615,0.3485053,-100,5.657142857
+OG0015042,Lobster/Oyster (EW873) - Talos,United States,operating,NA,Talos,28.089,-90.186,0.3378617,-100,5.342857143
+OG0015031,Longhorn (MC546) - ENI,United States,operating,NA,ENI Petroleum,28.4435,-89.0735,0.3808071,-100,6.378571429
+OG0015323,Tubular Bells (MC682) - Hess,United States,operating,NA,Hess Corporation,28.26466667,-88.88966667,0.4056247,-100,7.221428571
+OG0015524,Devils Tower (MC773) - Kosmos,United States,operating,NA,Kosmos Energy,28.247,-88.82,0.4126304,-100,7.607142857
+OG0015525,Fourier/Sumter (MC522) - Kosmos,United States,operating,NA,Kosmos Energy,28.476,-88.137,0.404525,-100,7.142857143
+OG0015605,Longhorn (MC546) - LLOG Offshore,United States,operating,NA,LLOG Exploration Offshore,28.43666667,-89.04066667,0.3808071,-100,6.378571429
+OG0015606,Appaloosa (MC503) - LLOG Offshore,United States,operating,NA,LLOG Exploration Offshore,28.466,-89.025,0.3843282,-100,6.514285714
+OG0015749,Medusa (MC582) - Murphy,United States,operating,NA,Murphy E&P. Company,28.3935,-89.4665,0.3126732,-100,4.707142857
+OG0015745,ST228 - Murphy,United States,operating,NA,Murphy E&P. Company,28.362,-90.202,0.3442197,-50,8.9
+OG0016211,Coulomb (MC657) - Shell,United States,operating,NA,Shell,28.369,-87.939,0.3956947,-100,6.892857143
+OG0016203,Mars-Ursa (MC807) - Shell,United States,operating,NA,Shell,28.16492857,-89.17357143,0.3839557,-100,6.478571429
+OG0016210,Europa (MC935) - Shell,United States,operating,NA,Shell,28.038,-89.442,0.3443584,-100,5.6
+OG0016206,Kaikias (MC768) - Shell,United States,operating,NA,Shell,28.176,-88.98666667,0.3849515,-100,6.564285714
+OG0016595,Gladden (MC800) - W & T,United States,operating,NA,W & T Offshore,28.152,-89.56,0.3283046,-100,5.214285714
+OG0016611,Hummingbird (EW878) - Walter,United States,operating,NA,Walter Oil & Gas Corporation,28.1518,-89.9544,0.351373,-100,5.757142857
+OG0017600,Vito (MC940) - Shell,United States,operating,2023,Shell Offshore,27.963,-89.138,0.3433179,-100,5.5
+OG0017955,Ballymore (MC607) - Chevron,United States,in development,2025 (expected),Chevron U.S.A. Inc,28.366,-88.241,0.4023442,-100,7.114285714
+OG0017956,Rydberg (MC525) - Shell,United States,operating,2024,Shell,28.4556347,-87.9529584,0.4051212,-100,7.185714286
+OG0017960,Dover (MC612) - Shell,United States,in development,2025 (expected),Shell,27.3683,-87.9919,0.4301892,-100,7.914285714
+OG0018191,PowerNap (MC943) - Shell,United States,operating,2022,Shell Offshore,28.036,-88.992,0.3665862,-100,6.057142857
+OG0018897,Mormont West (GC478) - Murphy,United States,operating,NA,Murphy Oil,27.491,-90.071,0.4007805,-100,7.05
+OG0018899,(WLDMC943) - Shell Offshore,United States,operating,NA,Shell,28.03,-89.017,0.3703181,-100,6.114285714
+OG0018900,Spruance (EW921) - Llog Exploration Offshore,United States,operating,2022,LLOG Exploration Offshore,28.0855,-90.006,0.378229,-100,6.328571429
+OG0018901,Big Bend (MC698) - Quarternorth Energy,United States,operating,NA,Quarternorth Energy,28.302,-88.086,0.3962028,-100,6.928571429
+OG0018902,GC039 - Quarternorth Energy,United States,operating,NA,Quarternorth Energy,27.924,-89.962,0.3995916,-100,6.971428571
+OG0018903,MC607 - Quarternorth Energy,United States,operating,NA,Quarternorth Energy,28.475,-88.236,0.3985057,-100,6.95
+OG0018908,Gunflint (MC948) - Quarternorth Energy,United States,operating,NA,Quarternorth Energy,28.012,-88.7705,0.3754985,-100,6.214285714
+OG0018909,Pegasus GC385 - Eni,United States,operating,NA,Eni S.P.A.,27.583,-90.313,0.3756797,-100,6.25
+OG0018910,Dantzler (MC782) - Quarternorth Energy,United States,operating,NA,Quarternorth Energy,28.213,-88.282,0.4087943,-100,7.357142857
+OG0019536,Dome Patrol (MC505) - LLOG,United States,operating,2023,LLOG Exploration Offshore,28.470609,-88.939997,0.3843282,-100,6.514285714
+OG0019539,Shenzi North (GC654) - Woodside,United States,operating,2023,Woodside Energy Group,27.367921,-90.116716,0.4186736,-100,7.75
+OG0019549,Khaleesi (GC389) - Murphy Oil,United States,operating,2022,Murphy Oil,27.522,-90.1046,0.4007805,-100,7.05
+OG0019550,Mormont (GC390) - Murphy Oil,United States,operating,2022,Murphy Oil,27.522,-90.1046,0.4007805,-100,7.05
+OG0019551,Samurai (GC432) - Murphy Oil,United States,operating,2022,Murphy Oil,27.537,-90.168,0.3755385,-100,6.228571429
+OG0019552,Warrior (GC563) - Anadarko,United States,discovered,2030 (expected),Anadarko,27.406112,-90.202272,0.4172557,-100,7.671428571
+OG0019577,Boca de Jaruco,Cuba,operating,NA,NA,23.17367056,-82.12836514,0.5699742,-5,9.928571429
+OG0019605,Puerto Escondido,Cuba,operating,NA,NA,23.17140544,-81.72025252,0.5723422,-1,9.957142857
+OG0019609,Santa Cruz,Cuba,operating,NA,Melbana Energy,23.17964177,-81.93570536,0.5712164,-1,9.942857143
+OG0020301,Sirius,Colombia,discovered,2027 (expected),Petrobras,11.591,-73.689,0.113922,-100,2.957142857
+OG0020453,Urdaneta,Venezuela,operating,NA,NA,10.16109952,-71.77352668,0.0181027,-10,5.457142857
+OG0020647,Pickerel (MC727) - Hess,United States,operating,2024,Hess Corporation,28.26464069,-88.88723484,0.4056247,-100,7.221428571
+OG0020744,Who Dat (MC503),United States,operating,2011,LLOG Exploration Offshore,28.472,-89.079,0.3808071,-100,6.378571429
+OG0020746,Who Dat South (MC545) - LLOG,United States,discovered,NA,LLOG Exploration Offshore,28.385,-89.333,0.3363888,-100,5.328571429
+OG0005167,Dragon,Venezuela,discovered,2026 (expected),Shell,10.8691,-61.8567,0.4594302,-100,8.142857143
+OG0005170,Corocoro,Venezuela,operating,2008,PetroSucre,10.1429,-62.4758,0.2173419,5,9.4
+OG0009198,Pedernales,Venezuela,operating,NA,"Petrowarao, S.A.",9.977697888,-62.25907492,0.1799294,5,9.314285714
+OG0009206,Mejillones,Venezuela,discovered,NA,NA,10.8531,-62.0685,0.4208894,-100,7.8
+OG0010893,Red Mango,Trinidad and Tobago,operating,2007,BPTT,9.997,-60.56,0.241832,-50,7.092857143
+OG0010894,Serrette,Trinidad and Tobago,operating,2011,BPTT,10.449,-60.44,0.3660251,-50,9.035714286
+OG0010900,Dolphin Deep,Trinidad and Tobago,operating,2006,BG Group,10.23,-60.226,0.3433316,-100,5.535714286
+OG0010902,Amherstia,Trinidad and Tobago,operating,2000,Perenco,9.965,-60.459,0.241605,-50,7.05
+OG0010903,Angelin,Trinidad and Tobago,operating,2019,BPTT,10.393,-60.589,0.358332,-50,9.014285714
+OG0010904,Savonette,Trinidad and Tobago,operating,2009,BPTT,10.08,-60.27,0.2943189,-50,8.385714286
+OG0010905,Savannah,Trinidad and Tobago,operating,2021,BPTT,9.994,-60.146,0.2538166,-100,3.578571429
+OG0010906,Corallita,Trinidad and Tobago,operating,2017,BPTT,10.078,-60.222,0.2943189,-100,4.121428571
+OG0010907,Sercan,Trinidad and Tobago,operating,2017,EOG Resources,10.447,-60.392,0.3660251,-50,9.035714286
+OG0010908,Greater Angostura,Trinidad and Tobago,operating,2005,Woodside Energy Group,10.706,-60.591,0.3857507,-50,9.1
+OG0010909,Kapok,Trinidad and Tobago,operating,2003,BPTT,9.873,-60.484,0.2015812,-50,6.628571429
+OG0010910,Cassra,Trinidad and Tobago,operating,2022,Shell TT,11.49387642,-60.6380014,0.6522597,-100,8.271428571
+OG0010911,Bounty,Trinidad and Tobago,operating,2021,BG Group,10.24,-60.132,0.3407406,-100,5.435714286
+OG0010912,Poinsettia,Trinidad and Tobago,operating,2009,BG Group,11.223,-61.533,0.5086253,-100,8.185714286
+OG0010913,Ruby,Trinidad and Tobago,operating,2021,Woodside Energy Group,10.747,-60.529,0.3905387,-50,9.157142857
+OG0010914,Kairi,Trinidad and Tobago,operating,2005,Woodside Energy Group,10.706,-60.591,0.3857507,-50,9.1
+OG0010915,Immortelle,Trinidad and Tobago,operating,1994,Perenco,9.996,-60.478,0.241832,-50,7.092857143
+OG0010916,Toucan,Trinidad and Tobago,operating,2010,EOG Resources Trinidad,10.461,-60.315,0.3761231,-100,6.285714286
+OG0010918,Cypre,Trinidad and Tobago,in development,2025 (expected),BPTT,10.03098506,-60.28975917,0.2552229,-50,7.485714286
+OG0010922,Endeavour,Trinidad and Tobago,operating,2021,BG Group,10.302,-60.185,0.3605437,-100,5.957142857
+OG0010924,Iguana,Trinidad and Tobago,operating,2018,De Novo Energy,10.316,-61.851,0.3202185,-20,9.328571429
+OG0010925,Cashima,Trinidad and Tobago,operating,2007,Perenco,10.066,-60.403,0.2746764,-50,7.878571429
+OG0013081,Liza,Guyana,operating,2019,ExxonMobil,8.2244,-56.9426,0.0211429,-100,1.728571429
+OG0013082,Payara,Guyana,operating,2023,ExxonMobil,8.2836,-56.9535,0.0176217,-100,1.357142857
+OG0013083,Snoek,Guyana,in development,2026 (expected),ExxonMobil,8.033,-56.877,0.0251695,-100,2.1
+OG0013084,Liza Deep,Guyana,operating,2022,ExxonMobil,8.146,-56.9335,0.0205934,-100,1.642857143
+OG0013086,Ranger,Guyana,discovered,NA,ExxonMobil,8.9682,-57.326,0.0534924,-100,2.585714286
+OG0013931,Barracuda,Trinidad and Tobago,operating,2021,BG Group,10.24,-60.132,0.3407406,-100,5.435714286
+OG0017982,Uaru,Guyana,in development,2026 (expected),ExxonMobil,8.0068,-56.8277,0.0230085,-100,1.957142857
+OG0018396,Matapal,Trinidad and Tobago,operating,2021,BPTT,10.11878961,-60.34034553,0.284757,-50,8.085714286
+OG0018397,Manakin,Trinidad and Tobago,discovered,NA,BPTT,9.974027352,-60.29492176,0.2552229,-50,7.485714286
+OG0018398,Manatee,Trinidad and Tobago,in development,2027 (expected),Shell TT,9.969369,-60.151084,0.2538166,-100,3.578571429
+OG0018403,Juniper,Trinidad and Tobago,operating,2017,BPTT,10.078,-60.222,0.2943189,-100,4.121428571
+OG0018409,Horst,Trinidad and Tobago,operating,NA,Woodside Energy Group,10.706,-60.591,0.3857507,-50,9.1
+OG0020631,Lancetfish-1,Guyana,discovered,NA,ExxonMobil,8.0483,-57.0016,0.0248201,-100,2.064285714
+OG0020698,Manakin-Cocuina,Venezuela-Trinidad and Tobago,discovered,NA,BP,9.974027352,-60.29492176,0.2552229,-50,7.485714286
+OG0020699,Cocuina,Venezuela,discovered,NA,BP,9.974027352,-60.29492176,0.2552229,-50,7.485714286
+OG0020701,Dorado,Venezuela,discovered,NA,NA,9.873,-60.484,0.2015812,-50,6.628571429
+OG0020702,Kapok-Dorado,Venezuela-Trinidad and Tobago,operating,NA,NA,9.873,-60.484,0.2015812,-50,6.628571429
+OG0013103,Orca,Mauritania,discovered,2036 (expected),BP,16.592,-17.171,0.0239498,-100,2.014285714
+OG0013150,Greater Tortue Ahmeyim,Senegal-Mauritania,operating,2025,BP,15.967,-17.662,0.0230063,-100,1.942857143
+OG0013151,Tortue,Mauritania,operating,2025,BP,16.123,-17.629,0.0219989,-100,1.85
+OG0013152,Ahmeyim,Senegal,operating,2025,BP,16.123,-17.629,0.0219989,-100,1.85
+OG0013153,Sangomar,Senegal,operating,2024,Woodside Energy,13.7353,-17.6065,0.0201871,-100,1.542857143
+OG0017487,BirAllah,Mauritania,discovered,2028 (expected),BP Mauritania Investments,16.29075555,-16.9892647,0.0244668,-100,2.042857143
+OG0017488,Yakaar-Teranga,Senegal,discovered,2027 (expected),Kosmos Energy Ltd.,15.221,-18.073,0.0197889,-100,1.471428571
+OG0012200,Foroozan,Saudi Arabia-Iran,operating,1975,Iranian Offshore Oil Company,28.3995,49.6511,0.0218806,-30,4.25
+OG0012219,Balal,Iran,operating,2003,Iranian Offshore Oil Company,26.3028,52.5359,0.0135319,-50,2.328571429
+OG0012275,Dalma,United Arab Emirates,in development,2025 (expected),Abu Dhabi National Oil Company,24.665,52.365,0.0178364,-20,4.428571429
+OG0012308,Satah,United Arab Emirates,operating,1987,ADNOC Offshore,25.116,52.614,0.0161987,-10,4.821428571
+OG0012404,Khafji,Kuwait-Saudi Arabia,operating,1961,Khafji Joint Operations,28.2744,48.8864,0.0154837,-10,4.228571429
+OG0012458,Al Bunduq,Qatar,operating,1975,Bunduq Company Limited,25.126,52.60914,0.0161987,-10,4.821428571
+OG0012461,Al-Karkara/A-Structure,Qatar,operating,NA,Qatar Petroleum Development Company,25.08114,52.484725,0.0168663,-10,5.171428571
+OG0012462,Al Shaheen,Qatar,operating,1994,North Oil Company,26.51422,51.92192,0.0162185,-30,3.328571429
+OG0012464,North Field,Qatar,operating,1991,QatarEnergy,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0012465,Al Rayyan,Qatar,operating,1996,QatarEnergy,26.65912,51.57252,0.0149968,-30,2.9
+OG0012467,Dolphin,Qatar,operating,NA,Dolphin Energy Limited,26.1938,52.0041,0.0181595,-20,4.642857143
+OG0012469,Idd El Shargi North Dome (ISND),Qatar,operating,1964,QatarEnergy,25.46792,52.37386,0.017535,-20,4.25
+OG0012470,Idd El Shargi South Dome (ISSD),Qatar,operating,1999,QatarEnergy,25.33758,52.3637,0.0182469,-10,5.557142857
+OG0012472,Qatargas 2,Qatar,operating,2009,QatarEnergy,26.3028,51.9223,0.0187345,-20,4.742857143
+OG0012473,Maydan Mahzam,Qatar,operating,1965,QatarEnergy,25.753025,52.446605,0.017904,-20,4.442857143
+OG0012476,North Field Alpha,Qatar,operating,1991,QatarEnergy,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0012477,North Field Bravo,Qatar,operating,1996,QatarEnergy,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0012478,RasGas Alpha,Qatar,operating,1999,QatarEnergy,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0012479,Qatargas 3,Qatar,operating,2010,QatarEnergy,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0012480,Qatargas 4,Qatar,operating,2011,QatarEnergy,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0014118,Berri,Saudi Arabia,operating,1970,Saudi Aramco,27.1145,49.6389,0.0134377,0,5.192857143
+OG0014120,Marjan,Saudi Arabia,operating,1973,Saudi Aramco,28.4389,49.6746,0.0223439,-30,4.514285714
+OG0014121,Manifa,Saudi Arabia,operating,1964,Saudi Aramco,27.7159,48.9834,0.0134524,-5,4.342857143
+OG0017525,Berri Expansion,Saudi Arabia,in development,2025 (expected),Saudi Aramco,27.1145,49.6389,0.0134377,0,5.192857143
+OG0017563,North Field East,Qatar,in development,2026 (expected),QatarEnergy,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0018037,Abu Sa`fah,Saudi Arabia-Bahrain,operating,1966,Saudi Aramco,26.79,50.4312,0.022857,-10,6.8
+OG0018039,Hasbah,Saudi Arabia,operating,2016,Saudi Aramco,28.1477,49.9194,0.0141822,-30,2.828571429
+OG0019005,North Field South,Qatar,in development,2026 (expected),QatarEnergy,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0019022,Farzad B,Iran,in development,2025 (expected),National Iranian Oil Company,27.71502405,49.83249031,0.0204014,-20,5.121428571
+OG0019027,RasGas 2,Qatar,operating,NA,QatarEnergy,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0019035,Al-Khaleej Gas Project 2,Qatar,operating,2010,Exxonmobil,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0019036,Al-Khaleej Gas Project 1,Qatar,operating,2005,Exxonmobil,26.57116,51.85212,0.0157718,-30,3.114285714
+OG0019101,Karan,Saudi Arabia,operating,2007,Saudi Aramco,27.72334,49.82565,0.0204014,-20,5.121428571
+OG0019109,Maharah,Saudi Arabia,operating,NA,Saudi Aramco,28.30833,49.48333,0.0202665,-30,3.857142857
+OG0019628,Marjan Expansion,Saudi Arabia,in development,2025 (expected),Saudi Aramco,28.4389,49.6746,0.0223439,-30,4.514285714
+OG0020043,Marjan,Saudi Arabia,operating,1973,Saudi Aramco,28.4389,49.6746,0.0223439,-30,4.514285714
+OG0012273,Bu Haseer,United Arab Emirates,operating,2018,Al Yasat Petroleum,25.14784225,52.79321876,0.016437,-20,4.057142857
+OG0012274,Bunduq,United Arab Emirates,operating,1975,Bunduq Company Limited,25.216,52.72,0.0166225,-20,4.157142857
+OG0012280,Ghasha,United Arab Emirates,in development,2025 (expected),Abu Dhabi National Oil Company,24.5016,52.8948,0.0211246,-5,6.685714286
+OG0012459,Al Khalij,Qatar,operating,1997,TotalEnergies E&P-Qatar,25.92298,52.69973,0.016297,-50,2.614285714
+OG0012466,Bul Hanine,Qatar,operating,1972,QatarEnergy,25.42391,52.72763,0.0164999,-10,5.007142857
+OG0004951,Mumbai High,India,operating,1976,Oil and Natural Gas Corporation,19.461,71.407,0.2903254,-50,8.307142857
+OG0004952,Heera & Neelam,India,operating,NA,Oil and Natural Gas Corporation,18.5925,72.29518182,0.1668523,-50,6.378571429
+OG0004953,Bassein & Satellite,India,operating,1988,Oil and Natural Gas Corporation,19.199,72.124,0.2002205,-50,6.564285714
+OG0012202,Hengam,Iran,operating,2010,Iranian Offshore Oil Company,26.4214,55.9659,0.0150057,-50,2.4
+OG0012244,Sirri C,Iran,operating,NA,Iranian Offshore Oil Company,25.7463,54.2086,0.0165829,-50,2.642857143
+OG0012260,Abu Al Bukhoosh,United Arab Emirates,operating,1972,ADNOC Offshore,24.422,53.313,0.0206493,-5,6.478571429
+OG0012277,Falah,United Arab Emirates,operating,1978,Dubai Petroleum Establishment,25.625,54.21,0.0143291,-30,2.871428571
+OG0012278,Fateh,United Arab Emirates,operating,1969,Dubai Petroleum Establishment,25.613,54.443,0.0120284,-50,2.142857143
+OG0012287,Lower Zakum,United Arab Emirates,operating,1967,ADNOC Offshore,24.853,53.662,0.0162963,-5,5.392857143
+OG0012288,Fateh/Fateh Southwest/Falah,United Arab Emirates,operating,1976,Dubai Petroleum Establishment,25.553,54.334,0.0128957,-30,2.771428571
+OG0012293,Mubarak,United Arab Emirates,operating,1974,NA,25.842048,55.26227,0.0153118,-30,2.971428571
+OG0012296,Nasr,United Arab Emirates,operating,2015,Abu Dhabi National Oil Company,25.377,53.537,0.0169049,-20,4.185714286
+OG0012309,Satah Al Razboot (SARB),United Arab Emirates,operating,2016,ADNOC Offshore,24.792,53.247,0.0207427,-10,6.028571429
+OG0012314,Umm Al Lulu,United Arab Emirates,operating,2014,ADNOC Offshore,24.483,54.056,0.0211492,-10,6.185714286
+OG0012316,Umm Al Qaiwain (UAQ),United Arab Emirates,operating,2008,Sinochem,25.56390888,55.44662918,0.0143842,-20,3.6
+OG0012318,Umm Al-Dalkh,United Arab Emirates,operating,1985,ADNOC Offshore,24.565,54.183,0.0164428,-10,4.971428571
+OG0012319,Umm Shaif,United Arab Emirates,operating,1962,ADNOC Offshore,25.262,53.283,0.0179454,-20,4.542857143
+OG0012322,Upper Zakum,United Arab Emirates,operating,1982,ADNOC Offshore,24.84287561,53.65625172,0.0162963,-5,5.392857143
+OG0012555,Yumna,Oman,operating,2020,Masirah Oil,19.9841,58.546,0.402907,-50,9.214285714
+OG0013977,GK-28/42,India,discovered,2025 (expected),Oil and Natural Gas Corporation,22.59597988,69.61889284,0.4743942,-30,9.785714286
+OG0017626,Lower Zakum LTDP-2,United Arab Emirates,in development,2028 (expected),NA,24.853,53.662,0.0162963,-5,5.392857143
+OG0018025,Vasai,India,operating,NA,Oil and Natural Gas Corporation,19.0558,71.8554,0.218534,-50,6.75
+OG0018245,Hail and Ghasha,United Arab Emirates,in development,2025 (expected),Abu Dhabi National Oil Company,24.29297,53.2833,0.0210536,-1,7.157142857
+OG0019174,Sirri A,Iran,operating,NA,Iranian Offshore Oil Company,25.7463,54.2086,0.0165829,-50,2.642857143
+OG0019175,Sirri D,Iran,operating,NA,Iranian Offshore Oil Company,25.7463,54.2086,0.0165829,-50,2.642857143
+OG0020668,XF-002,United Arab Emirates,discovered,NA,Eni,24.60898141,54.00928695,0.020005,-10,5.728571429
+OG0021309,Daman,India,operating,NA,ONGC,20.39471957,72.62530946,0.1726185,-20,8.885714286
+OG0021311,Ratna,India,operating,1983,ONGC,18.313,72.396,0.1440101,-30,8.342857143
+OG0005027,Ravva,India,operating,1993,Vedanta Limited (Cairn Oil & Gas),16.487933,82.089667,0.2855313,5,9.671428571
+OG0005028,KG-OSN-2001/3,India,operating,NA,Oil and Natural Gas Corporation,17.054,82.531,0.3195491,-30,9.135714286
+OG0013098,R Cluster,India,operating,2020,Reliance Industries Ltd,16.177,82.618,0.3153581,-100,4.728571429
+OG0013100,MJ,India,operating,2023,Reliance Industries Ltd,16.52902216,83.95594942,0.3665146,-100,6.042857143
+OG0013105,Mahar,Myanmar,discovered,2027 (expected),Posco International,19.39,92.63,0.1553593,-100,3.014285714
+OG0013971,KG-DWN-98/2,India,operating,2020,Oil and Natural Gas Corporation,16.282,82.207,0.3031847,-100,4.321428571
+OG0014098,Shwe,Myanmar,operating,2013,POSCO Daewoo International,19.7113,92.5471,0.1688481,-100,3.2
+OG0021264,Deen Dayal West,India,discovered,2016,Oil and Natural Gas Corporation,17.054,82.531,0.3195491,-30,9.135714286
+OG0021269,Cluster 2,India,operating,2024,Oil and Natural Gas Corporation,16.282,82.207,0.3031847,-100,4.321428571
+OG0021297,Vasistha,India,operating,2016,ONGC,16.25212756,82.26776069,0.3092664,-100,4.657142857
+OG0005083,Moragot,Thailand,operating,NA,"Chevron Thailand Exploration and Production, Ltd (CTEP)",8.615,101.55,0.0126519,-50,2.2
+OG0005087,Pailin,Thailand,operating,1999,"Chevron Thailand Exploration and Production, Ltd (CTEP)",8.615,101.55,0.0126519,-50,2.2
+OG0005088,North Pailin,Thailand,operating,2002,"Chevron Thailand Exploration and Production, Ltd (CTEP)",8.615,101.55,0.0126519,-50,2.2
+OG0005121,Arthit,Thailand,operating,2008,PTT Exploration and Production Public Company Limited (PTTEP),8.22,102.485,0.0132881,-50,2.271428571
+OG0010846,Lingshui 17-2 (Deep Sea No.1 I),China,operating,2024,CNOOC Limited,17.47569,110.51416,0.0558793,-100,2.6
+OG0010852,Dongfang 1-1,China,operating,2003,CNOOC Limited,17.75752321,110.0562902,0.0497718,-100,2.557142857
+OG0010853,Dongfang 13-1,China,operating,2015,CNOOC Limited,17.75752321,110.0562902,0.0497718,-100,2.557142857
+OG0010889,Enping 23-1,China,operating,2017,CNOOC Limited,21.32674683,113.4940299,0.1618032,-50,6.307142857
+OG0010890,Weizhou 12-2,China,operating,2017,CNOOC Limited,20.7208,108.825,0.0205775,-30,3.95
+OG0010891,Enping 18-1,China,operating,2016,CNOOC Limited,21.32674683,113.4940299,0.1618032,-50,6.307142857
+OG0010938,Ledong 22-1,China,operating,2009,CNOOC Limited,17.75752321,110.0562902,0.0497718,-100,2.557142857
+OG0010941,Yacheng 13-1,China,operating,1996,CNOOC Limited,17.54886,109.10194,0.035286,-50,4.271428571
+OG0013943,Wushi 17-2,China,operating,2024,CNOOC Zhanjiang Branch,19.84668055,107.8161455,0.0313435,-30,5.942857143
+OG0014081,Ca Voi Xanh,Vietnam,discovered,2030 (expected),ExxonMobil,15.698887,109.602713,0.0964915,-100,2.814285714
+OG0014082,Te Giac Trang,Vietnam,operating,2011,Hoang Long joint operating company,9.8448,107.9436,0.0263136,-30,5.571428571
+OG0014084,Lac Da Vang,Vietnam,in development,2026 (expected),Murphy Oil Corporation,10.2658,108.3843,0.0495083,-30,6.542857143
+OG0014089,Su Tu Trang 2,Vietnam,operating,2021,Cuu Long Joint Operating Company,10.1468,108.4259,0.0412119,-50,4.471428571
+OG0014090,Su Tu Trang 1,Vietnam,operating,2012,Cuu Long Joint Operating Company,10.1468,108.4259,0.0412119,-50,4.471428571
+OG0014099,Zawtika,Myanmar,operating,2003,PTTEP International Limited,14.42,95.006,0.0473501,-50,4.678571429
+OG0014111,Dongfang 13-2,China,operating,2020,CNOOC Limited,18.9971,107.4987,0.0262858,-50,3.821428571
+OG0017728,Ca Tam,Vietnam,operating,2019,Vietsovpetro,9.704,108.305,0.0328451,-50,4.142857143
+OG0017729,Dai Hung,Vietnam,operating,1994,PetroVietnam,8.488628,108.677306,0.0180975,-100,1.371428571
+OG0017961,Sao Vang-Dai Nguyet,Vietnam,operating,2020,Idemitsu Gas Production,8.5521,108.4522,0.0203828,-50,2.857142857
+OG0017962,Rang Dong,Vietnam,operating,1998,Japan Vietnam Petroleum,9.96279,108.274,0.0313755,-50,4.1
+OG0017963,Bach Ho,Vietnam,operating,1986,Vietsovpetro JVC,9.73,107.972,0.0249393,-30,5.357142857
+OG0017966,Hai Thach,Vietnam,operating,2013,Bien Dong Petroleum Operating Company,8.08838,108.92,0.0160336,-100,1.285714286
+OG0017968,Su Tu Den,Vietnam,operating,2003,Cuu Long Joint Operating Co,10.3926,108.4476,0.0598999,-30,6.871428571
+OG0017993,Ac Quy,Vietnam,in development,2025 (expected),PetroVietnam,8.119409,103.224293,0.0154621,-50,2.457142857
+OG0017994,Kim Long,Vietnam,in development,2025 (expected),PetroVietnam,8.119409,103.224293,0.0154621,-50,2.457142857
+OG0017995,Ca Voi,Vietnam,in development,2025 (expected),PetroVietnam,8.119409,103.224293,0.0154621,-50,2.457142857
+OG0017996,Su Tu Trang 2b,Vietnam,in development,2026 (expected),Cuu Long Joint Operating Company,10.1468,108.4259,0.0412119,-50,4.471428571
+OG0018029,Yadana,Myanmar,operating,1998,PTTEP International Limited,15.1865,94.6377,0.0671064,-30,7.007142857
+OG0018190,Zawtika Phase 2A,Myanmar,in development,2025 (expected),PTTEP International Limited,14.42,95.006,0.0473501,-50,4.678571429
+OG0018958,Weizhou 12-2,China,operating,2016,CNOOC Limited,20.71734014,108.8147565,0.0205775,-30,3.95
+OG0020846,Enping 15-1,China,operating,2024,CNOOC Limited,20.3934,114.2083,0.2293183,-100,3.385714286
+OG0021115,Weizhou 11-2 1,China,operating,2012,CNOOC Limited,20.516667,108.55,0.0221094,-30,4.364285714
+OG0021179,Baodao 21-1,China,discovered,NA,CNOOC Limited,17.60927,109.395539,0.03559,-50,4.285714286
+OG0021305,Wenchang Field Cluster,China,operating,NA,CNOOC Limited,19.43274513,112.102484,0.1331403,-100,2.985714286
+OG0010859,Liwan 3-1,China,operating,2014,CNOOC Limited,21.6412,115.8128,0.3289647,-100,5.257142857
+OG0010883,Liuhua 16-2,China,operating,2020,CNOOC Limited,21.20405,116.03543,0.3173236,-100,4.778571429
+OG0010884,Liuhua 20-2,China,operating,2020,CNOOC Limited,21.20405,116.03543,0.3173236,-100,4.778571429
+OG0011573,Huizhou 21-1,China,operating,1990,CNOOC Limited,20.8199,115.1118,0.2994572,-100,4.214285714
+OG0013942,Lufeng 22-1 Redevelopment,China,operating,1997,CNOOC Limited,20.97164,114.67649,0.2410643,-50,6.985714286
+OG0013947,Lufeng 12-3,China,operating,2023,SK earthon,22.438264,116.852494,0.4472844,-30,9.742857143
+OG0013962,Lufeng 7-1/7-2,China,operating,2014,Newfield Exploration,22.041566,116.131745,0.354299,-50,8.985714286
+OG0013963,Lufeng 8-1,China,operating,2024,CNOOC Limited,22.045808,116.614722,0.383325,-50,9.057142857
+OG0017562,Chunxiao/Shirakaba,China-Japan,operating,2005,Donghai Xihu Oil and Gas Operating Company,28.333,124.911,2.0193949,-100,8.328571429
+OG0018033,Malampaya,Philippines,operating,2002,Prime Infrastructure Capital Inc,11.6348,118.9027,0.6646512,-100,8.285714286
+OG0020814,Kaiping South,China,discovered,NA,CNOOC Limited,20.85613,116.60676,0.4149542,-100,7.642857143
+OG0020847,Lingshui 36-1,China,discovered,NA,CNOOC Limited,16.87855852,114.8113637,0.2913115,-100,4.028571429
+OG0021131,Huizhou 26-1,China,operating,1991,CNOOC Huizhou Operating Branch,20.613686,115.081011,0.3078602,-100,4.557142857
+OG0021139,Xijiang 23-1,China,operating,2008,CNOOC Limited,21.394272,115.094583,0.2467391,-100,3.514285714
+OG0021142,Xijiang 24-3 (24-1),China,operating,2014,CNOOC Limited,21.37289127,114.9057122,0.2205104,-50,6.778571429
+OG0022405,Wilmington - Thums Long Beach Co. (Offshore) (Conventional) (Ranger),United States,operating,NA,Thums Long Beach Co.,33.74991207,-118.1635542,0.015086,-20,3.628571429
+OG0022522,Wilmington - Thums Long Beach Co. (Offshore) (Unconventional) (Ranger),United States,operating,NA,Thums Long Beach Co.,33.74492264,-118.1620846,0.015086,-20,3.628571429
+OG0014278,EI238 - Arena,United States,operating,NA,Arena Offshore,28.54628571,-91.53042857,0.3456937,-30,9.257142857
+OG0014576,Bayou Goreau - Castex,United States,operating,NA,Castex Energy,29.19531289,-91.10466008,0.3021377,-1,9.642857143
+OG0014519,SM073 - Byron,United States,operating,NA,Byron Energy,28.631,-92.1175,0.2852652,-30,8.928571429
+OG0014577,Atchafalaya Bay - Castex,United States,operating,NA,Castex Energy,29.41959546,-91.47195564,0.2548395,-1,9.364285714
+OG0014579,Oyster Bayou - Castex,United States,operating,NA,Castex Energy,29.28203925,-91.14035352,0.2941153,2,9.685714286
+OG0014580,Eugene Island Block 18 - Castex,United States,operating,NA,Castex Energy,29.39042764,-91.50201792,0.2548395,-1,9.364285714
+OG0014788,Eugene Island Block 10 - Contango,United States,operating,NA,Contango Resources,29.39897132,-91.76347171,0.2785257,-1,9.457142857
+OG0014854,SS223 - Cox,United States,operating,NA,Cox Operating,29.398,-92.013,0.2878661,-1,9.557142857
+OG0015388,Caillou Island - Hilcorp,United States,operating,NA,Hilcorp Energy,29.10163877,-90.5027649,0.3113673,-1,9.728571429
+OG0015396,Lake Barre - Hilcorp,United States,operating,NA,Hilcorp Energy,29.2053191,-90.48558602,0.2894455,-1,9.571428571
+OG0015403,Mound Point - Hilcorp,United States,operating,NA,Hilcorp Energy,29.45811672,-91.92797892,0.2927145,0,9.657142857
+OG0015405,Pass Wilson - Hilcorp,United States,operating,NA,Hilcorp Energy,29.09354062,-90.86083998,0.3111199,-1,9.7
+OG0015942,"Cote Blanche Bay, West - Perdido",United States,operating,NA,Perdido Energy Louisiana,29.68664431,-91.79673952,0.2769268,0,9.528571429
+OG0016366,SS113 - Talos Petroleum,United States,operating,NA,Talos Petroleum,28.84685714,-90.84985714,0.3019959,-10,9.428571429
+OG0016422,Atchafalaya Bay - Texas Petroleum Investment,United States,operating,NA,Texas Petroleum Investment Co.,29.41959546,-91.47195564,0.2548395,-1,9.364285714
+OG0016434,Eugene Island Block 18 - Texas Petroleum Investment,United States,operating,NA,Texas Petroleum Investment Co.,29.38341894,-91.48910631,0.2548395,-1,9.364285714
+OG0018904,Galveston (GA209) - Arena Offshore,United States,operating,NA,Arena Offshore,29.138,-94.533,0.2875394,-10,9.3
+OG0021853,"[Field not stated] - Denbury Onshore, (Offshore)",United States,operating,NA,"Denbury Onshore, Llc",29.68921508,-94.51181516,0.2353161,5,9.442857143
+OG0014197,King/Horn Mt. (MC084) - Anadarko,United States,operating,NA,Anadarko,28.887,-88.0034,0.4347088,-100,8.014285714
+OG0014203,Marlin (VK915) - Anadarko,United States,operating,NA,Anadarko,29.1095,-87.946,0.4501919,-100,8.057142857
+OG0014273,ST037 - Arena,United States,operating,NA,Arena Offshore,28.931,-90.334,0.3433523,-20,9.471428571
+OG0014324,La Femme/BWO (MC427) - Beacon Growthco,United States,operating,NA,Beacon Growthco,28.561,-88.434,0.3535445,-100,5.835714286
+OG0014325,Stonefly (VK999) - Beacon Growthco,United States,operating,NA,Beacon Growthco,28.999,-88.143,0.4516183,-100,8.114285714
+OG0014395,Ariel (MC429) - BP,United States,operating,NA,BP,28.562,-88.311,0.3836905,-100,6.442857143
+OG0014396,Kepler (MC383) - BP,United States,operating,NA,BP,28.604,-88.435,0.3535445,-100,5.835714286
+OG0014562,Bay Marchand Block 2 Offshore - Cantium,United States,operating,NA,Cantium,29.08979909,-90.14878324,0.3433635,2,9.9
+OG0014559,MP299 - Cantium,United States,operating,NA,Cantium,29.27025,-88.7625,0.3286371,-50,8.742857143
+OG0014560,MP041 - Cantium,United States,operating,NA,Cantium,29.39247059,-88.99447059,0.3173999,-10,9.542857143
+OG0014561,BM002 - Cantium,United States,operating,NA,Cantium,29.033,-90.14077778,0.3433635,-10,9.714285714
+OG0014674,Petronius (VK786) - Chevron,United States,operating,NA,Chevron,29.198,-87.7975,0.4251387,-100,7.878571429
+OG0014852,MO904 - Cox,United States,operating,NA,Cox Operating,30.085,-88.506,0.3513738,-10,9.771428571
+OG0014850,WD073 - Cox,United States,operating,NA,Cox Operating,28.93975,-89.702,0.3340662,-50,8.785714286
+OG0014851,WD030 - Cox,United States,operating,NA,Cox Operating,29.137875,-89.607625,0.3514773,-10,9.8
+OG0015030,Appaloosa (MC503) - ENI,United States,operating,NA,ENI Petroleum,28.51,-88.976,0.3843282,-100,6.514285714
+OG0015045,Cognac (MC194) - Talos,United States,operating,NA,Talos,28.79175,-89.05575,0.3509139,-100,5.714285714
+OG0015238,MP311 - GOM Shelf,United States,operating,NA,GOM Shelf,29.1915,-88.7325,0.3380305,-50,8.842857143
+OG0015283,"Black Bay, West - Helis",United States,operating,NA,Helis Oil & Gas Company,29.58015657,-89.53693732,0.2844301,-5,9.414285714
+OG0015284,"Black Bay, Southeast - Helis",United States,operating,NA,Helis Oil & Gas Company,29.52654012,-89.48479184,0.3021083,-1,9.628571429
+OG0015285,"Black Bay, North - Helis",United States,operating,NA,Helis Oil & Gas Company,29.63780255,-89.5699112,0.2871891,-1,9.514285714
+OG0015387,Lake Washington - Hilcorp,United States,operating,NA,Hilcorp Energy,29.37284212,-89.79130696,0.3136677,2,9.814285714
+OG0015389,Lake Raccourci - Hilcorp,United States,operating,NA,Hilcorp Energy,29.21224807,-90.37290148,0.3059511,0,9.757142857
+OG0015404,West Delta Block 27 - Hilcorp,United States,operating,NA,Hilcorp Energy,29.15997451,-89.46575478,0.3669482,-1,9.914285714
+OG0015523,Odd Job (MC214) - Kosmos,United States,operating,NA,Kosmos Energy,28.782,-88.0665,0.4115846,-100,7.528571429
+OG0015613,"Black Bay, East - Llox",United States,operating,NA,LLOX,29.57284633,-89.454921,0.2976865,-5,9.5
+OG0015746,Son Of Bluto 2 (MC431) - Murphy,United States,operating,NA,Murphy E&P. Company,28.563,-88.237,0.3836905,-100,6.442857143
+OG0015611,Manila Village - Llox,United States,operating,NA,LLOX,29.48269593,-90.00058965,0.2624116,2,9.485714286
+OG0015741,Marmalard (MC300) - Murphy,United States,operating,NA,Murphy E&P. Company,28.70833333,-88.18933333,0.4215493,-100,7.85
+OG0015742,Rigel (MC252) - Murphy,United States,operating,NA,Murphy E&P. Company,28.76466667,-88.37166667,0.4098152,-100,7.414285714
+OG0016205,Appomattox (MC392) - Shell,United States,operating,2019,Shell,28.608,-88.0155,0.4091409,-100,7.392857143
+OG0016208,Vicksburg A (MC393) - Shell,United States,operating,NA,Shell,28.609,-87.9165,0.4306782,-100,7.957142857
+OG0016287,Breton Sound Block 53 - Southern,United States,operating,NA,Southern Oil Of Louisiana,29.46477159,-89.1631618,0.3356123,-1,9.857142857
+OG0016359,Main Pass Block 74 - Talos Offshore,United States,operating,NA,Talos Energy Offshore,29.24234909,-88.92667329,0.3355531,-50,8.8
+OG0016286,Breton Sound Block 31 - Southern,United States,operating,NA,Southern Oil Of Louisiana,29.53346545,-89.27189668,0.3310089,-1,9.828571429
+OG0016362,Pompano (VK990) - Talos Petroleum,United States,operating,NA,Talos Petroleum,28.9598,-88.6084,0.3891796,-100,6.707142857
+OG0016363,Pompano I (MC029) - Talos Petroleum,United States,operating,NA,Talos Petroleum,28.952,-88.539,0.3891796,-100,6.707142857
+OG0016364,Amberjack (MC109) - Talos Petroleum,United States,operating,NA,Talos Petroleum,28.859,-88.958,0.3584827,-100,5.9
+OG0016365,Ram-Powell (VK956) - Talos Petroleum,United States,operating,NA,Talos Petroleum,29.06525,-88.06925,0.4519503,-100,8.128571429
+OG0016424,Main Pass Block 69 - Texas Petroleum Investment,United States,operating,NA,Texas Petroleum Investment Co.,29.25242504,-89.04515074,0.3217542,2,9.871428571
+OG0016426,Breton Sound Block 20 - Texas Petroleum Investment,United States,operating,NA,Texas Petroleum Investment Co.,29.57187095,-89.12764515,0.3342931,-1,9.842857143
+OG0016596,MO823 - W & T,United States,operating,NA,W & T Offshore,30.1725,-88.1805,0.3340041,-10,9.614285714
+OG0016613,ST127 - Walter,United States,operating,NA,Walter Oil & Gas Corporation,28.687,-90.313,0.3578471,-20,9.585714286
+OG0016617,WD112 - Walter,United States,operating,NA,Walter Oil & Gas Corporation,28.852,-89.54,0.3455728,-50,8.914285714
+OG0016690,South Pass Block 24 - Whiting,United States,operating,NA,Whitney Oil & Gas,29.04078997,-89.28189045,0.3423115,-1,9.885714286
+OG0018907,MC074 - Llog Exploration Offshore,United States,operating,NA,LLOG Exploration Offshore,28.908,-88.489,0.4077174,-100,7.257142857
+OG0020745,Who Dat East (MC509) - LLOG,United States,discovered,NA,LLOG Exploration Offshore,28.549,-88.718,0.341526,-100,5.471428571
+OG0020751,MP127 - Cantium,United States,operating,NA,Cantium,29.429,-88.897,0.3268546,-10,9.6
+OG0011605,Hebron,Canada,operating,2017,ExxonMobil,47.181,-48.338,0.0469541,-100,2.528571429
+OG0011606,Hibernia,Canada,operating,1997,HDMC,47.342,-48.665,0.0297978,-100,2.314285714
+OG0011607,North Amethyst,Canada,operating,2010,Cenovus Energy,47.413,-47.896,0.0333528,-100,2.378571429
+OG0011609,White Rose,Canada,operating,2005,Cenovus Energy,47.48,-47.923,0.0333528,-100,2.378571429
+OG0020051,Bay du Nord,Canada,discovered,2030 (expected),Equinor Canada,47.953848,-46.441628,0.034491,-100,2.414285714
+OG0020052,Cappahayden,Canada,discovered,2030 (expected),Equinor Canada,47.956985,-46.669856,0.0280643,-100,2.228571429
+OG0020053,Mizzen,Canada,discovered,NA,Equinor Canada,48.242589,-46.290266,0.034546,-100,2.428571429
+OG0020054,Baccalieu,Canada,discovered,NA,Equinor Canada,48.008228,-46.198865,0.0357754,-100,2.492857143
+OG0020055,Harpoon,Canada,discovered,NA,Equinor Canada,48.078669,-46.213636,0.0357754,-100,2.492857143
+OG0020056,West Bonne Bay,Canada,discovered,NA,Equinor Canada,46.519395,-48.300303,0.0521062,-50,4.935714286
+OG0020058,North Ben Nevis,Canada,discovered,NA,Cenovus Energy,46.676812,-48.410025,0.0493617,-50,4.778571429
+OG0020059,Springdale,Canada,discovered,NA,Equinor Canada,46.424944,-48.286415,0.0589197,-50,5.057142857
+OG0020060,South Mara,Canada,discovered,NA,ExxonMobil Canada,46.674922,-48.486416,0.0493617,-50,4.778571429
+OG0020061,North Dana,Canada,discovered,NA,ExxonMobil Canada,47.234334,-47.603567,0.0642298,-100,2.671428571
+OG0020062,Ballicatters,Canada,discovered,NA,Suncor Energy,46.790224,-48.542665,0.0475255,-50,4.707142857
+OG0017521,Anchois Phase 1,Morocco,discovered,2027 (expected),Energean,35.11044051,-6.605565898,0.0463201,-100,2.514285714
+OG0012192,Abuzar,Iran,operating,1976,Iranian Offshore Oil Company,29.292,49.532,0.0238579,-30,5.085714286
+OG0012207,Doroud,Iran,operating,1965,Iranian Offshore Oil Company,29.2227,50.2625,0.0231581,-30,4.871428571
+OG0012215,Soroosh,Iran,operating,1970,Iranian Offshore Oil Company,29.047,49.5161,0.0243886,-30,5.228571429
+OG0012405,Dorra,Kuwait-Saudi Arabia-Iran,in development,2029 (expected),Khafji Joint Operations,28.9686,49.1122,0.0154045,-30,3
+OG0012406,Lulu,Kuwait-Saudi Arabia-Iran,operating,NA,Khafji Joint Operations,28.7747,49.508,0.0240358,-30,5.157142857
+OG0010854,Jinzhou 25-1S,China,operating,2009,CNOOC Limited,40.76503304,123.1253357,0.1395158,5,9.278571429
+OG0010856,Jinzhou 25-1,China,operating,2020,CNOOC Limited,40.76503304,123.1253357,0.1395158,5,9.278571429
+OG0010880,Penglai 19-3 Area 5/10,China,operating,2020,CNOOC Limited,38.283,120.017,0.1374323,-20,8.814285714
+OG0010881,Luda 21-2/16-3,China,operating,2020,CNOOC Limited,39.7,120.5,0.1129243,-20,8.764285714
+OG0010882,Bozhong 19-6,China,operating,2023,CNOOC Limited,38.50735774,119.2016169,0.0861148,-20,8.521428571
+OG0010885,Caofeidian 6-4,China,operating,2021,CNOOC Limited,38.50735774,119.2016169,0.0861148,-20,8.521428571
+OG0010886,Caofeidian 11-6,China,operating,2006,CNOOC Limited,38.74,118.89,0.0845657,-20,8.471428571
+OG0010892,Kenli 10-1,China,operating,2015,CNOOC Limited,38.50735774,119.2016169,0.0861148,-20,8.521428571
+OG0011299,Qinhuangdao 32-6,China,operating,2001,CNOOC Limited,39.2,117.5,0.0273132,5,8.764285714
+OG0013915,Bozhong 19-6 (13-2),China,operating,2024,CNOOC Limited,38.55,119.2,0.0959215,-20,8.614285714
+OG0013916,Penglai 25-6,China,operating,2020,CNOOC Limited,38.343739,120.137922,0.1379692,-20,8.828571429
+OG0013949,Luda 5-2N,China,operating,2022,CNOOC Limited,39.9667,120.7832,0.0990629,-20,8.685714286
+OG0013953,Kenli 16-1,China,operating,2021,"CNOOC (Dongying) Oilfield Development Co., Ltd.",38,118.75,0.0907817,5,9.2
+OG0013959,Bozhong 8-4,China,discovered,NA,CNOOC Limited,39,119,0.0633746,-10,8.657142857
+OG0013964,Kenli 6-1,China,operating,2023,CNOOC Limited,37.75,119,0.107077,2,9.228571429
+OG0013969,Bozhong 26-3 Expansion,China,operating,2021,CNOOC Limited,38.50735774,119.2016169,0.0861148,-20,8.521428571
+OG0013970,Luda 4-2,China,operating,2005,CNOOC Limited,39.95,120.85,0.0990629,-20,8.685714286
+OG0017561,Pinghu,China,operating,1998,Shanghai Oil and Gas Operating Company Limited,28.487,125.003,1.9884305,-100,8.307142857
+OG0018017,Suizhong 36-1,China,operating,1993,CNOOC Limited,39.9501,120.836,0.0990629,-20,8.685714286
+OG0020813,Qinhuangdao 27-3,China,discovered,NA,CNOOC Limited,39.71602,120.05535,0.1007924,-20,8.728571429
+OG0020822,Chengdao,China,operating,1993,Sinopec Shengli Oilfield Company,38.14579,119.08387,0.093846,-10,8.942857143
+OG0021288,Bozhong 34-1,China,operating,2007,CNOOC Limited,38.15999574,119.5550592,0.0908187,-10,8.857142857
+OG0021291,Bozhong 28-2 S Redjustment,China,operating,2023,CNOOC Limited,38.084111,119.549747,0.0969457,-10,8.971428571
+OG0020063,North Bjarni,Canada,discovered,NA,ConocoPhillips,55.589197,-57.755698,0.0181182,-100,1.392857143
+OG0020064,Gudrid,Canada,discovered,NA,ConocoPhillips,54.920722,-55.881195,0.0119459,-100,1
+OG0020065,Bjarni,Canada,discovered,NA,ConocoPhillips,55.525103,-57.695845,0.0181182,-100,1.392857143
+OG0000627,Beckett,Ireland,discovered,NA,Europa Oil & Gas Ltd,50.823,-11.836,0.0186913,-100,1.435714286
+OG0000628,Corrib,Ireland,operating,2015,Vermilion Exploration and Production Ireland Limited (VEPIL),54.329,-11.063,0.0204715,-100,1.6
+OG0000631,Edgeworth,Ireland,discovered,NA,Europa Oil & Gas Ltd,50.804,-11.572,0.0159322,-100,1.25
+OG0000632,Ervine,Ireland,discovered,NA,Europa Oil & Gas Ltd,50.804,-11.572,0.0159322,-100,1.25
+OG0000635,Inishkea,Ireland,discovered,NA,Europa Oil & Gas Ltd,50.804,-11.572,0.0159322,-100,1.25
+OG0000636,Kiely East,Ireland,discovered,NA,Europa Oil & Gas Ltd,51.497,-13.141,0.0169176,-100,1.321428571
+OG0000637,Kiely West,Ireland,discovered,NA,Europa Oil & Gas Ltd,51.497,-13.141,0.0169176,-100,1.321428571
+OG0000639,PR3,Ireland,discovered,NA,Europa Oil & Gas Ltd,50.804,-11.572,0.0159322,-100,1.25
+OG0000641,Shaw,Ireland,discovered,NA,Europa Oil & Gas Ltd,50.823,-11.836,0.0186913,-100,1.435714286
+OG0000644,The Edge,Ireland,discovered,NA,Europa Oil & Gas Ltd,54.328942,-10.808121,0.0234741,-100,1.985714286
+OG0019004,Inishkea West,Ireland,discovered,2026 (expected),Europa Oil & Gas Ltd,54.127066,-11.414395,0.0291544,-100,2.285714286
+OG0000626,Barryroe,Ireland,discovered,NA,Exola,51.226,-8.24,0.0175563,-50,2.714285714
+OG0012453,Odoptu (Northern Dome),Russia,operating,1998,Sakhalin-1 LLC,53.371389,143.166944,0.0175894,-20,4.3
+OG0018594,Odoptu (Central and Southern Domes),Russia,operating,2010,Sakhalin-1 LLC,53.25,143.316667,0.0176913,-20,4.364285714
